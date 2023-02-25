@@ -1,1 +1,1 @@
-# proofofconcept
+# Proof of concept
